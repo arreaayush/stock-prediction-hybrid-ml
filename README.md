@@ -80,6 +80,7 @@ streamlit run app.py
 ├── rf_model.pkl            # Saved Random Forest model
 ├── scaler.pkl              # Saved MinMaxScaler
 ├── requirements.txt        # Python dependencies
+├── config.toml             # Configuration file for API key
 ├── utils/                  # (Optional) Helper functions
 └── README.md               # Project Documentation
 ```
